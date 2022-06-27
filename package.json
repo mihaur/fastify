@@ -182,7 +182,7 @@
     "avvio": "^8.1.0",
     "find-my-way": "^6.0.0",
     "light-my-request": "^5.0.0",
-    "pino": "^7.5.1",
+    "pino": "^8.1.0",
     "process-warning": "^2.0.0",
     "proxy-addr": "^2.0.7",
     "rfdc": "^1.1.4",
